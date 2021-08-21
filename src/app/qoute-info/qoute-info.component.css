@@ -1,0 +1,29 @@
+#delete{
+    font-size: 20px;
+    margin-right: 3%;
+  }
+  #del{
+    float:right;
+  }
+  #like{
+    font-size: 15px;
+  }
+  #dislike{
+    font-size: 18px;
+  }
+  .hate{
+    margin-left: 12px;
+    background-color:blue;
+    color: white;
+  }
+  hr{
+    background-color: #413E07;
+  }
+  #buttons{
+    margin-top: 5%;
+    margin-bottom: 10%;
+  }
+  #when{
+    float:right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
