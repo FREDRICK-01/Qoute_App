@@ -1,0 +1,28 @@
+.form-control{
+    color: white;
+    background: transparent;
+    font-weight: 570;
+  }
+  label{
+    color: white;
+    font-weight: 600;
+  }
+  hr{
+    width: 50%;
+    height: 2px;
+    background-color: rgb(15, 153, 107);
+  }
+  .heading{
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .container-fluid{
+    background-color: rgba(5, 39, 70, 0.374);
+    border-radius: 5px;
+    padding-bottom: 5%;
+    box-shadow: 2px 2px 3px 2px rgb(153, 138, 5);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 4%;
+  }
